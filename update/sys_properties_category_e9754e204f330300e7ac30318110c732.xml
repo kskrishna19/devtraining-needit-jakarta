@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>Needit Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-18 11:14:02</sys_created_on>
+        <sys_id>e9754e204f330300e7ac30318110c732</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needit Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_e9754e204f330300e7ac30318110c732</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-18 11:14:02</sys_updated_on>
+        <title><![CDATA[<p><span style="font-family: &#39;comic sans ms&#39;, sans-serif; font-size: 7pt;">Needit Properties configuarition. Click Save once done<img style="align: texttop;" title="" src="sys_attachment.do?sys_id&#61;11268ae44f730300e7ac30318110c722" alt="" align="texttop" border="" hspace="" vspace="" /><img style="align: baseline;" title="Needit Properties" src="sys_attachment.do?sys_id&#61;11268ae44f730300e7ac30318110c722" alt="Needit Properties" align="baseline" border="" hspace="" vspace="" /></span></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=e9754e204f330300e7ac30318110c732"/>
+</record_update>
